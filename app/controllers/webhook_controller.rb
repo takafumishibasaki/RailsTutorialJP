@@ -31,3 +31,4 @@ def callback
       #botの発言
     end
   end
+end
